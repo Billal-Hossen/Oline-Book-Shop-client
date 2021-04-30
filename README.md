@@ -5,12 +5,20 @@
 3.Font Awesome icons
 4. react icons
 5.Node.js
-6.MongoDB etc
+6.MongoDB 
+7.Firebase
+8.Heroku etc
 
 
-# ABOUT THIS ASSIGNMENT
+# ABOUT THIS PROJECT
+Book-Shop | Book Order System Web Application
+•	Duration: 4 days
+•	The primary purpose of this website is to serve as an online bookstore.
+•	If a user wishes to purchase a book from this website, they must first register or login. 
+•	They can sign in using Google or Facebook.
+•	Technology: React,Bootstrap,Font-Awesome,Node.js,Express.js,MongoDB,Firebase,Heroku
 
-This assignment was not so hard. I have complete is is project before 6 hours.But i submit this Assignment  after one day.It's my luck.For this assignment i faced github,hiruku,firebase problem.All problem catch me yesterday.Alhamdulillah done.Thanks programming hero team.
+
 
 
 
